@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: eae2dfbbc32a3404bad8c429156eaf01
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blur-Condensed
+  fontNames:
+  - Blur-Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6c13404d2cb01b840a756959e3b8b237, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
